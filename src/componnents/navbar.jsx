@@ -15,7 +15,7 @@ const Navbar = () => {
       }`}
     >
       <div className="font-bold text-2xl tracking-tighter text-cyan-400">
-        SA.
+        TK.
       </div>
 
       <div
